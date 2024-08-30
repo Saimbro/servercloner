@@ -8,5 +8,5 @@ Credit goes to Saim
 
 ### Installation
 
-pip install
+pip install -r requirements.txt
 
